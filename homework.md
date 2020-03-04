@@ -23,13 +23,13 @@
 單字參照：
 
 1. incorporate (v.) 包含；將…包括在內
-2. synonymous　(adj.) 等同的
+2. synonymous (adj.) 等同的
 3. the frontiers of sth 知識領域的前線
-4. relay　(n.)　繼電器
+4. relay (n.) 繼電器
 5. cell (n.) 電池
-6. assemble　(v.) 組裝
+6. assemble (v.) 組裝
 7. consist (v.) 存在
-8. speculate　(v.)　推斷
+8. speculate (v.) 推斷
 9. arithmetic (n.) 運算
 10. bulky (adj.) 龐大，占空間
 11. circuit (n.) 迴路
