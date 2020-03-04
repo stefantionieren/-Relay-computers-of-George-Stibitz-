@@ -18,6 +18,28 @@
 
 斯特比茲首次向行政主管展示他的模型K運算機時，他們並沒有很滿意。沒有煙火，沒有香檳，就算他隨後想到了也沒有。然而不過一年，行政主管就改變了對斯特比茲發明的想法。這個決定中很重要的因素是，貝爾公司對於要找到對逐漸增加的複數數學問題的解決方法的壓力愈來愈大。公司同意以資金支助建造一台很大的斯特比茲發明的實驗模型。斯特比茲在1938年二月就完成了他的設計，四月份就讓貝爾公司的一位配電工程師山謬．威廉斯開始建構設計的機器。最終的成品在十月份完成，1940年一月八日首次投入生產，便一直持續運作到1949年。在貝爾實驗室在戰爭期間建造其他中繼式計算機時，名稱從最初的「複數計算機」變為「模型一」，要價兩萬多美元。
 
+123
+
+![George Stibitz](https://history-computer.com/ModernComputer/Relays/images/StibitzTerminal.jpg "George Stibitz")
+
+計算單位是個特別的終端，有四個暫存器，且和輸入和輸出單位是完全分開的不同單位(見上圖)。計算機本體置於實驗室的隔離房間內，因此看過的人很少。操作員以三台改造過的電傳印字機(鍵盤與列印裝置)中的其中一台遙控使房裡的計算機運作，再使用多元電路匯流排連接到處理器，最後放到別的地方去，因為無論如何也無法同時運作。
+
+Bell Labs called this system a "bi-quinary" notation, since the relays had a weight of either one or five. 
+由於(the relays)中繼設備有  一或五  ，所以貝爾實驗室便稱這系統為一個”bi-quinary”符號。
+
+
+Actually, it is not a combination of those number bases; rather, it is a seven-bit, mixed decimal code. 
+事實上他並非為最基本的數字所組成的，而是由7位元的混合十進位程式碼。
+
+All the Bell Labs relay computers worked in decimal arithmetic. A special circuit checked to see that two and only two relays were energized for each decimal digit.
+所有貝爾實驗室的中繼電腦都以十進位(進行)算數/演算/運算。有一種特別的循環會去檢查/驗算那兩個中繼設備是否觸發/刺激各十進位元/十進位數。
+
+
+Another circuit checked that for each group one and only one relay was on—that prevented two separate errors from canceling each other out, although certain unusual combinations of malfunctions could go undetected.
+另一個循環會檢查/驗算在每個群體中唯一啟動的電腦中繼，以夠避免兩個分開的錯誤相互抵銷
+不過仍有一些不正常錯誤的組合仍未被發現。
+
+
 
 ---
 單字參照：
@@ -38,3 +60,5 @@
 14. quotient (n.) (數學)商
 15. implement (v.) 實施
 16. initial (adj.) 最初的
+
+17. notation (n.) 符號
