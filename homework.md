@@ -14,11 +14,13 @@
 ![George Stibitz](https://history-computer.com/ModernComputer/Relays/images/StibitzTerminalSchema.jpg "George Stibitz")
 示意圖為複數計算機的電傳印字機。
 
+斯特比茲首次向行政主管展示他的模型K運算機時，他們並沒有很滿意。沒有煙火，沒有香檳，就算他隨後想到了也沒有。然而不過一年，行政主管就改變了對斯特比茲發明的想法。這個決定中很重要的因素是，貝爾公司對於要找到對逐漸增加的複數數學問題的解決方法的壓力愈來愈大。公司同意以資金支助建造一台很大的斯特比茲發明的實驗模型。斯特比茲在1938年二月就完成了他的設計，四月份就讓貝爾公司的一位配電工程師山謬．威廉斯開始建構設計的機器。最終的成品在十月份完成，1940年一月八日首次投入生產，便一直持續運作到1949年。在貝爾實驗室在戰爭期間建造其他中繼式計算機時，名稱從「初始複數計算機」變為「模型一」，要價兩萬多美元。
+
 
 1. incorporate (v.) 包含；將…包括在內
 2. synonymous　(adj.) 等同的
 3. the frontiers of sth 知識領域的前線
-relay　(n.)　繼電器
+4. relay　(n.)　繼電器
 5. cell (n.) 電池
 6. assemble　(v.) 組裝
 7. consist (v.) 存在
@@ -28,5 +30,6 @@ relay　(n.)　繼電器
 11. circuit (n.) 迴路
 12. interim (n.) 過渡時期的
 13. roomful (n.) 一屋子的人
-13. quotient (n.) (數學)商
-14. implement (v.) 實施
+14. quotient (n.) (數學)商
+15. implement (v.) 實施
+16. initial (adj.) 最初的
